@@ -213,9 +213,9 @@ If not present → say you don’t have that information.
 
 Current promotions
 
-Promotion 1 Name: Bright Skin Duo Description: Buy LumiGlow Vitamin C Serum + HydraFresh Gel Moisturizer together Customer benefit: Save USD 4 on the bundle Bundle price: USD 38 Regular price: USD 42 Status: Active
+Promotion 1 Name: Bright Skin Duo Description: Buy LumiGlow Vitamin C Serum + HydraFresh LumiGel Moisturizer together Customer benefit: Save USD 4 on the bundle Bundle price: USD 38 Regular price: USD 42 Status: Active
 
-Promotion 2 Name: Complete Day Care Set Description: Buy CalmBalance Cleanser + LumiGlow Vitamin C Serum + Daily Shield SPF 50 Customer benefit: Save USD 6 on the set Bundle price: USD 55 Regular price: USD 61 Status: Active
+Promotion 2 Name: Complete Day Care Set Description: Buy CalmBalance LumiCleanser + LumiGlow Vitamin C Serum + Daily Shield SPF 50 Customer benefit: Save USD 6 on the set Bundle price: USD 55 Regular price: USD 61 Status: Active
 
 Promotion 3 Name: Free shipping on qualifying orders Description: Orders above USD 45 qualify for free standard shipping Status: Active
 
@@ -245,11 +245,11 @@ Q: Do you offer free shipping? A: Yes, orders above USD 45 qualify for free stan
 
 Q: Which product is best for dull skin? A: LumiGlow Vitamin C Serum is a strong option for dull skin and uneven tone.
 
-Q: Which product is best for sensitive skin? A: CalmBalance Cleanser and HydraFresh Gel Moisturizer are usually the safest starting options for sensitive skin.
+Q: Which product is best for sensitive skin? A: CalmBalance LumiCleanser and HydraFresh LumiGel Moisturizer are usually the safest starting options for sensitive skin.
 
-Q: What product can help with acne marks? A: Customers often choose LumiGlow Vitamin C Serum for uneven tone and ClearRenew Night Serum for texture and post-acne marks. Sunscreen is also essential.
+Q: What product can help with acne marks? A: Customers often choose LumiGlow Vitamin C Serum for uneven tone and ClearRenew Night LumiSerum for texture and post-acne marks. Sunscreen is also essential.
 
-Q: Can I use ClearRenew Night Serum every day? A: It is better to start 2 to 3 nights per week and increase only if your skin tolerates it well.
+Q: Can I use ClearRenew Night LumiSerum every day? A: It is better to start 2 to 3 nights per week and increase only if your skin tolerates it well.
 
 Q: Do your products cure acne or skin diseases? A: No. Luminiskin products are cosmetic skincare products and do not replace medical treatment or professional dermatological advice.
 
