@@ -14,7 +14,7 @@ Not recommended for: Very sensitive skin with active irritation
 Complementary products: HydraFresh Gel Moisturizer, Daily Shield SPF 50
 
 Product 2
-Name: HydraFresh Gel Moisturizer
+Name:  HydraFresh LumiGel Moisturizer
 Type: Facial moisturizer
 Main benefit: Provides lightweight hydration without leaving a heavy or greasy feeling
 Skin type: Oily, combination, and sensitive skin
@@ -27,7 +27,7 @@ Not recommended for: Extremely dry skin needing rich cream textures
 Complementary products: LumiGlow Vitamin C Serum, CalmBalance Cleanser
 
 Product 3
-Name: CalmBalance Cleanser
+Name: CalmBalance LumiCleanser
 Type: Facial cleanser
 Main benefit: Gently cleanses the skin without stripping natural moisture
 Skin type: Sensitive, normal, and combination skin
@@ -40,7 +40,7 @@ Not recommended for: Customers looking for strong exfoliating cleansing
 Complementary products: HydraFresh Gel Moisturizer, Daily Shield SPF 50
 
 Product 4
-Name: ClearRenew Night Serum
+Name: ClearRenew Night LumiSerum
 Type: Night treatment serum
 Main benefit: Helps improve the appearance of acne marks, rough texture, and uneven skin tone
 Skin type: Combination and oily skin
@@ -54,7 +54,7 @@ Complementary products: HydraFresh Gel Moisturizer, Daily Shield SPF 50
 Important caution: Use sunscreen during the day while using this product
 
 Product 5
-Name: Daily Shield SPF 50
+Name: Daily LumiShield SPF 50
 Type: Sunscreen
 Main benefit: Protects the skin from sun exposure while maintaining a light comfortable finish
 Skin type: All skin types
