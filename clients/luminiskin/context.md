@@ -215,7 +215,7 @@ Current promotions
 
 Promotion 1 Name: Bright Skin Duo Description: Buy LumiGlow Vitamin C Serum + HydraFresh LumiGel Moisturizer together Customer benefit: Save USD 4 on the bundle Bundle price: USD 38 Regular price: USD 42 Status: Active
 
-Promotion 2 Name: Complete Day Care Set Description: Buy CalmBalance LumiCleanser + LumiGlow Vitamin C Serum + Daily Shield SPF 50 Customer benefit: Save USD 6 on the set Bundle price: USD 55 Regular price: USD 61 Status: Active
+Promotion 2 Name: Complete Day Care Set Description: Buy CalmBalance LumiCleanser + LumiGlow Vitamin C Serum + Daily LumiShield SPF 50 Customer benefit: Save USD 6 on the set Bundle price: USD 55 Regular price: USD 61 Status: Active
 
 Promotion 3 Name: Free shipping on qualifying orders Description: Orders above USD 45 qualify for free standard shipping Status: Active
 
